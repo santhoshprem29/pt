@@ -1,0 +1,15 @@
+npm install protractor --save-dev
+npm install protractor -g
+webdriver-manager update
+webdriver-manager start
+npm install jasmine-reporters --save-dev
+npm install protractor-beautiful-reporter --save-dev
+npm install protractor-jasmine2-html-reporter --save-dev
+
+
+https://www.npmjs.com/package/jasmine-reporters
+https://www.npmjs.com/package/protractor-beautiful-reporter
+https://www.npmjs.com/package/protractor-jasmine2-html-reporter
+
+
+https://github.com/angular/protractor/blob/5.4.1/lib/frameworks/README.md#custom-frameworks
